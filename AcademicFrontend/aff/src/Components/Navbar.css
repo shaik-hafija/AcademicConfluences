@@ -1,0 +1,15 @@
+.navbar-links-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-links-container > div {
+    margin-right: 20px; /* Adjust spacing between items */
+  }
+  
+  .navbar-links-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
